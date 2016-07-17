@@ -1,0 +1,22 @@
+{
+  "name": "AniSave",
+  "homepage": "https://github.com/E-Takneek/AniSave",
+  "authors": [
+    "vipin <vipinsharma_03@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.1.0"
+  }
+}
